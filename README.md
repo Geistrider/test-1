@@ -24,6 +24,9 @@
         
     3
     
+# 그림 파일 추가하기
+
+![가을하늘 서울](./Beautiful Trees in Seoul.png)
 
 
 
