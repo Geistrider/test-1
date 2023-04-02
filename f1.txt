@@ -1,9 +1,9 @@
 a
 b
-<<<<<<< HEAD
+
 
 d
 e
-=======
+
 c
->>>>>>> f5f3023bbbaf83c435af9d7e711c458a3d4aae36
+
